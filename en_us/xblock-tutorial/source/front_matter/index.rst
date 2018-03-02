@@ -10,4 +10,5 @@ General Information
    read_me
    preface
    browsers
+   BARTENDING
 
