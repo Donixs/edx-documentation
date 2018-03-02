@@ -10,5 +10,6 @@ General Information
    read_me
    preface
    browsers
-   BARTENDING
-
+   part-1
+   part-2
+   part-3
